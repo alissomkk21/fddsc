@@ -1,0 +1,142 @@
+.img_list_title {
+    color: white !important;
+}
+
+._gameBox_18nth_55 ._logoBox_18nth_62 ._gameBox_s_18nth_219 {
+    display: none !important;
+}
+
+._gameBox_s_1mc6p_397 {
+    display: none !important;
+}
+
+#label_Recente {
+    display: none !important;
+}
+
+#label_Favoritos {
+    display: none !important;
+}
+
+._container_1pxds_55 ._header_1pxds_70 {
+    display: none !important;
+}
+
+._container_1pxds_55 .report {
+    margin-top: 20px !important;
+}
+
+#tab_Income,
+#tab_Rebate,
+#tab_Member,
+#tab_Transaction,
+#tab_SubordinateIncome,
+#tab_DirectlyGet,
+#tab_ReturnRate,
+#tab_AddSubordinate,
+._share_box_1uihb_584 .chat-list .chat-app:last-child,
+._styl1Tips_1qgvj_997,
+._depositImg_quzqg_578,
+._threeLoginBox_16c0v_55,
+._threeLoginBox_1uynm_55,
+._game_recommend_1v8j8_286,
+.gameBox_s,
+._discountedPrice_quzqg_512,
+._btn_sbg1y_89 ._cz_sbg1y_95 ._showCz2_sbg1y_119,
+._download_app_1umbr_55,
+._inline_sdqug_115,
+._tabBtn_sdqug_109,
+._margin_sdqug_283,
+._pcDateContainer_mr22r_55,
+._dep_15jvu_983 {
+    display: none !important;
+}
+
+._menuBox_15jvu_856 {
+    height: auto !important;
+}
+
+._headerInfo_su9d6_64 p {
+    display: none !important;
+}
+
+._radioGroup_4gphq_55 {
+    color: #fff;
+    display: grid !important;
+    flex-wrap: wrap !important;
+    grid-template-columns: repeat(var(--radio-row-length), 1fr) !important;
+}
+
+#share-ins,
+#share-whatsapp,
+#share-facebook,
+#share-telegram,
+#share-youtube,
+#share-twitter,
+#share-tiktok,
+#share-line {
+    display: none !important;
+}
+
+._inputContainer_dl4ah_55 ._input_dl4ah_55 ._content_dl4ah_258 ._enter_dl4ah_263 {
+    height: 60px !important;
+}
+
+._gameStartBox_sbg1y_55 ._goHomeBox_sbg1y_68 ._showTx_sbg1y_110 {
+    transform: translateY(100%) scale(1) !important;
+    display: none !important;
+}
+
+._gameStartBox_sbg1y_55 ._goHomeBox_sbg1y_68 ._btn_sbg1y_89._cz_sbg1y_95 {
+    transform: translateX(0px) translateY(0) scale(0);
+    display: none !important;
+}
+
+._subMenu_13vhy_485 {
+    display: none !important;
+}
+
+._headerBox_search_15jvu_1860 svg * {
+    display: none !important;
+}
+
+._subclass_13vhy_55 .container .form_line {
+    display: none !important;
+}
+
+#snowflakes {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    /* Para não interferir na interação com outros elementos */
+    z-index: 9999;
+    /* Para garantir que a neve esteja acima de outros elementos */
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.snowflake {
+    position: absolute;
+    font-size: 4rem;
+    /* Tamanho maior para os emojis */
+    animation: fall 5s linear infinite;
+    /* Animação de queda */
+}
+
+@keyframes fall {
+    0% {
+        transform: translateY(-100px) rotate(0deg);
+    }
+    100% {
+        transform: translateY(100vh) rotate(360deg);
+    }
+}
+
+._game_list_item_hots_18nth_171 {
+    display: none !important;
+}
